@@ -1,6 +1,9 @@
-# Unsupervised Learning Lab I (L08)
-
-Download the repository as a zip folder and begin an R project for this lab. The zip folder will contain instructions (repeated below) and a template to get an Rmd file started.
+---
+title: "Unsupervised Learning Lab I (L08)"
+author: "Data Science III (STAT 301-3)"
+date: "April 25th, 2018"
+output: html_document
+---
 
 # Overview
 
@@ -13,6 +16,14 @@ We will be utilizing the `NCI60` data (*NCI60_data.csv* & *NCI60_labs.csv*) and 
 # Exercises
 
 Please complete the following exercises. The document should be neatly formatted. 
+
+#### Load Packages
+
+```{r, message=FALSE}
+# Loading package(s)
+
+```
+<br>
 
 #### Exercise 1
 Work through the lab in Section 10.4 *Lab 1: Principal Compenent Analysis* (pages: 401 - 404) while attempting to utilize `tidyverse` techniques when possible. 
